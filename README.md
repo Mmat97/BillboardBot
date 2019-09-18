@@ -5,6 +5,9 @@ BrandScanner
 BrandScanner
 
 
+##Notes
+Day1: Had trobuling installing billboard api but was able to get it running, 
+	link to billboard-api: https://github.com/guoguo12/billboard-charts
 
 
 
